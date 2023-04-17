@@ -1,0 +1,7 @@
+I'm excited to share my latest Power BI dashboard project with you all, called "Income Statement". It's a tool that allows us to easily track and analyze our financial performance using key metrics such as net income, total revenue, operating income, and yearly growth in net income and total revenue.
+
+With this dashboard, we can quickly and easily see how our business is performing financially. We can track our revenue growth over time, identify trends in our expenses, and pinpoint areas where we need to improve our profitability. This will allow us to make more informed decisions about our business operations, and ultimately help us achieve our financial goals.
+
+The dashboard is designed to be user-friendly and accessible to everyone in our organization, regardless of their financial expertise. We can customize the dashboard to suit our specific needs and preferences, making it a powerful tool for driving our financial success.
+
+Overall, I'm really excited about the potential of this Income Statement dashboard to help us track and improve our financial performance. I believe it will be a valuable asset to our organization, and I can't wait to see the results we can achieve with it.
